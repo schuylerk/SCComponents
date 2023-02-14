@@ -1,11 +1,9 @@
 //
 //  SCToastViewStyle.swift
-//  SCIMChat
 //
-//  Created by schuyler on 2023/2/10.
+//  Created by schuyler
 //
 
-import Foundation
 import UIKit
 
 class SCToastViewStyle {
